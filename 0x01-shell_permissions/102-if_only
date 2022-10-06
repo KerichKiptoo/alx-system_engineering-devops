@@ -1,0 +1,2 @@
+#!/bin/nash
+chown --from=guillame betty hello
