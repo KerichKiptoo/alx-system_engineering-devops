@@ -1,1 +1,1 @@
-Shell directions
+A script that prints “Hello, World”
